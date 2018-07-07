@@ -2,7 +2,7 @@
 Projects from kaggle and online courses
 
 Topics include:
-Loan default prediction
+Loan default prediction,
 NLP sentiment analysis 
 ...
 Working on Image classification project with deep learning.
