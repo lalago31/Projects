@@ -1,5 +1,5 @@
 # Projects
-projects from kaggle and online courses
+Projects from kaggle and online courses
 
 Topics include:
 Loan default prediction
