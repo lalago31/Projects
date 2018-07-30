@@ -2,6 +2,7 @@
 Projects from kaggle and online courses
 
 Topics include:
+
 Loan default prediction,
 NLP sentiment analysis, 
 Recommender System,
