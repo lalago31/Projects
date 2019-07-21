@@ -1,16 +1,13 @@
-# Projects
-Projects from kaggle and online courses
+# Data Science Projects
+This repo contains projects I completed using kaggle and other online open source data.
 
-Topics include:
+### Topics include:
 
-Loan default prediction
+* Loan default prediction - Lending Club
 
-NLP sentiment analysis
+* NLP sentiment analysis - Yelp
 
-Recommender System
+* Recommender System - Yelp
 
-MusicBox user log analysis - churn prediction (PySpark)
-...
+* User churn prediction (PySpark) - MusicBox
 
-Working on Image classification project with deep learning.
-More will be uploaded soon.
