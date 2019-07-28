@@ -22,6 +22,6 @@ I used Pyspark to do all the data cleaning, feature tranformation and engineerin
 5. Feature Consolidation & EDA.ipynb - consolidate the play, download and search datasets into one holitic dataset on the user_id level, explore the relationship between the engineered features and the churn outcome.
 6. Build models to predict churn SparkML.ipynb - build classification models to predict user churn and uncover the most important factors that can be used to foretell the user churn.
 
-#### 3. Busiess Impact
+### 3. Busiess Impact
 MusicBox can use these information to know when to further engage which group of users to prevent the users from churning. 
 
