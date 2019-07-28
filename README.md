@@ -9,5 +9,5 @@ This repo contains projects I worked on using kaggle and other online open sourc
 
 * Recommender System - Yelp
 
-* User churn prediction (PySpark) - MusicBox
+* User Behavior Analysis and Churn Prediction (PySpark) - MusicBox
 
