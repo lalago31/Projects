@@ -1,5 +1,5 @@
 # Data Science Projects
-This repo contains projects I completed using kaggle and other online open source data.
+This repo contains projects I worked on using kaggle and other online open source data.
 
 ### Topics include:
 
