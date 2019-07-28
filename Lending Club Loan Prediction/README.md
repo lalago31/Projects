@@ -1,4 +1,4 @@
-# Lending Loan Default Prediction
+# Lending CLub - Loan Default Prediction
 
 The ipython notebook contains the following parts:
  1. Feature exploration, transformation and selection
