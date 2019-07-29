@@ -11,3 +11,5 @@ This repo contains projects I worked on using kaggle and other online open sourc
 
 * User Behavior Analysis and Churn Prediction (PySpark) - MusicBox
 
+* Seattle Listing Price Prediction - Airbnb
+
