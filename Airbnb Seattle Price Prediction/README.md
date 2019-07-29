@@ -9,4 +9,5 @@ The data source for this project is from Kaggle [Airbnb Seattle Datasets](https:
   - What makes a Airbnb host a superhost?
 
 2. Use regularized linear model and random forest regressor to uncover the most important features and their relationships with the price.
+
 3. Explore the key aspects to be a Airbnb superhost.
