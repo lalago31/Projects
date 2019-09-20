@@ -11,3 +11,5 @@ The data source for this project is from Kaggle [Airbnb Seattle Datasets](https:
 2. Use regularized linear model and random forest regressor to uncover the most important features and their relationships with the price.
 
 3. Explore the key aspects to be a Airbnb superhost.
+
+Medium post about the project can be found [here](https://towardsdatascience.com/solving-regression-problems-by-combining-statistical-learning-with-machine-learning-82949f7ac18a)
